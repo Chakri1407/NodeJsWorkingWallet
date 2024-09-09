@@ -31,7 +31,7 @@ Create a .env file in the root directory and add the following variables:
 ``DATABASE_PASSWORD = Your Password ``
 ``JWT_SECRET = secret key ``
 ``JWT_EXPIRES_IN = 90d ``
-``
+
 4. Run the application:
 `` npm start ``
 
