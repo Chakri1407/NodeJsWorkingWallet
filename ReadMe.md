@@ -44,10 +44,15 @@ Create a .env file in the root directory and add the following variables:
 Proper error handling is implemented, and the API returns appropriate HTTP status codes and error messages.
 
 ## Visual Representations
+1. 
 ![1.](https://github.com/Chakri1407/NodeJsWorkingWallet/blob/main/Assets/Screenshot%202024-09-09%20013634.png)
+2. 
 ![2.](https://github.com/Chakri1407/NodeJsWorkingWallet/blob/main/Assets/Screenshot%202024-09-09%20014841.png)
+3.
 ![3.](https://github.com/Chakri1407/NodeJsWorkingWallet/blob/main/Assets/Screenshot%202024-09-09%20014752.png)
+4. 
 ![4.](https://github.com/Chakri1407/NodeJsWorkingWallet/blob/main/Assets/Screenshot%202024-09-09%20014650.png)
+5. 
 ![5.](https://github.com/Chakri1407/NodeJsWorkingWallet/blob/main/Assets/Screenshot%202024-09-09%20014937.png)
 
 ## Features
