@@ -2,6 +2,9 @@
 # NodeJS Working Wallet(API only)
 This project is a fully functional wallet system built with Node.js. It is an API-only implementation, designed to handle various wallet-related tasks such as user authentication, balance management, transfers, and transaction tracking.
 
+## For API Documentation 
+- For detailed API documentation, please refer to this [link](https://documenter.getpostman.com/view/37564538/2sAXjRXA3J#3bb67c56-26d6-46d5-8bee-bd31433ce0e1)
+
 ## Features
 
 - ES6 Standards: All code is written following ES6 standards. ESLint and Prettier are used to maintain code quality and consistency.
