@@ -43,6 +43,13 @@ Create a .env file in the root directory and add the following variables:
 
 Proper error handling is implemented, and the API returns appropriate HTTP status codes and error messages.
 
+## Visual Representations
+![1.](https://github.com/Chakri1407/NodeJsWorkingWallet/blob/main/Assets/Screenshot%202024-09-09%20013634.png)
+![2.](https://github.com/Chakri1407/NodeJsWorkingWallet/blob/main/Assets/Screenshot%202024-09-09%20014841.png)
+![3.](https://github.com/Chakri1407/NodeJsWorkingWallet/blob/main/Assets/Screenshot%202024-09-09%20014752.png)
+![4.](https://github.com/Chakri1407/NodeJsWorkingWallet/blob/main/Assets/Screenshot%202024-09-09%20014650.png)
+![5.](https://github.com/Chakri1407/NodeJsWorkingWallet/blob/main/Assets/Screenshot%202024-09-09%20014937.png)
+
 ## Features
 
 - ES6 Standards: All code is written following ES6 standards. ESLint and Prettier are used to maintain code quality and consistency.
