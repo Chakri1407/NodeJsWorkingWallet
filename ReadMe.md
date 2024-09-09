@@ -2,19 +2,9 @@
 # NodeJS Working Wallet(API only)
 This project is a fully functional wallet system built with Node.js. It is an API-only implementation, designed to handle various wallet-related tasks such as user authentication, balance management, transfers, and transaction tracking.
 
-## For API Documentation 
-- For detailed API documentation, please refer to this [link](https://documenter.getpostman.com/view/37564538/2sAXjRXA3J#3bb67c56-26d6-46d5-8bee-bd31433ce0e1)
+## API Documentation 
+- For detailed API documentation on Postman, please refer to this [link](https://documenter.getpostman.com/view/37564538/2sAXjRXA3J#3bb67c56-26d6-46d5-8bee-bd31433ce0e1)
 
-## Features
-
-- ES6 Standards: All code is written following ES6 standards. ESLint and Prettier are used to maintain code quality and consistency.
-- User Authentication: User session management is handled via JWT (JSON Web Tokens).
-- Email Verification: Users receive an email verification upon signup.
-- Login: Users can log in using either a password or OTP.
-- Initial Balance: Users are credited with a fake balance upon signup.
-- Transfers: Users can transfer funds to each other.
-- Transaction History: Both admin and users can view transaction details.
-- Email Notifications: Users receive email notifications for successful or failed transactions.
 
 ## Installation
 
@@ -52,6 +42,17 @@ Create a .env file in the root directory and add the following variables:
 ## Error Handling
 
 Proper error handling is implemented, and the API returns appropriate HTTP status codes and error messages.
+
+## Features
+
+- ES6 Standards: All code is written following ES6 standards. ESLint and Prettier are used to maintain code quality and consistency.
+- User Authentication: User session management is handled via JWT (JSON Web Tokens).
+- Email Verification: Users receive an email verification upon signup.
+- Login: Users can log in using either a password or OTP.
+- Initial Balance: Users are credited with a fake balance upon signup.
+- Transfers: Users can transfer funds to each other.
+- Transaction History: Both admin and users can view transaction details.
+- Email Notifications: Users receive email notifications for successful or failed transactions.
 
 ## Linting and Formatting
 ESLint and Prettier are configured to enforce coding standards.
