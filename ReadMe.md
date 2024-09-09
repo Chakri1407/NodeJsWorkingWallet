@@ -25,13 +25,12 @@ This project is a fully functional wallet system built with Node.js. It is an AP
 
 Create a .env file in the root directory and add the following variables:
 
-`` NODE_ENV = development
-PORT = 3000 
-DATABASE = mongodb+srv://chakravarthynaik101:<PASSWORD>@cluster0.ycpoh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-DATABASE_LOCAL = mongodb://localhost:27017/natours
-DATABASE_PASSWORD = Your Password
-JWT_SECRET = secret key
-JWT_EXPIRES_IN = 90d 
+`` NODE_ENV = development ``
+``PORT = 3000 ``
+``DATABASE = mongodb+srv://chakravarthynaik101:<PASSWORD>@cluster0.ycpoh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0 ``
+``DATABASE_PASSWORD = Your Password ``
+``JWT_SECRET = secret key ``
+``JWT_EXPIRES_IN = 90d ``
 ``
 4. Run the application:
 `` npm start ``
